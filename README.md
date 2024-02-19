@@ -1,2 +1,3 @@
 # blackJack-Game
-Java programming + Swing GUI 
+black.java (Java programming) 
+KBS_GUI.java (Java Swing GUI) 
